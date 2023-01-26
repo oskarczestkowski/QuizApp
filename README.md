@@ -19,13 +19,14 @@
 
 ### Task
 
-Make an QuizApp using Android Studio (Java)
+Make a simple QuizApp using Android Studio (Java)
 
 <a name="screenshot"/>
 
 ### Screenshot
 
-![calc](https://user-images.githubusercontent.com/100945614/175376719-75ec9b3e-10f8-475f-8811-0d96d63e3544.png)
+<img src="quizappss">
+<img src="quizappss2">
 
 <a name="process"/>
 
@@ -35,20 +36,19 @@ Make an QuizApp using Android Studio (Java)
 
 ### What I've used?
 
-・HTML5,
-
-・CSS,
-
-・JavaScript.
+・Java
 
 <a name="wil"/>
 
 ### What I've learned?
 
-・ Simple tasks in JavaScript.
+・ Simple tasks in Java,
+・ Using Android Studio.
 
 <a name="wif"/>
 
 ### What I'll do in the future?
 
-・ More features like counting in different numeral systems.
+・ Main menu, 
+・ More Quiz categories, 
+・ Highscores
