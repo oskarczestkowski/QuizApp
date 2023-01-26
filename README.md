@@ -26,7 +26,7 @@ Make a simple QuizApp using Android Studio (Java)
 ### Screenshot
 
 <img src="quizappss">
-<img src="quizappss2">
+
 
 <a name="process"/>
 
